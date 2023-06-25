@@ -1,0 +1,21 @@
+{
+  "name": "vscode-nord-whiteout-theme",
+  "displayName": "Nord Whiteout",
+  "description": "TODO placeholder",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nord Whiteout",
+        "uiTheme": "vs",
+        "path": "./themes/Nord Whiteout-color-theme.json"
+      }
+    ]
+  }
+}
